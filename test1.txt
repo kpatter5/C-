@@ -1,0 +1,4 @@
+Jane Doe 98.67 Indiana 08:30 8/20/2020 
+John Johnson 98.000 Washington 08:30 8/20/2020
+John Doe 99.10 NYC 03:35 09/01/2020
+Jane Smith 98.600 Canada 12:30 12/12/2023
